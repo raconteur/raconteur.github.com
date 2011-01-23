@@ -1,7 +1,7 @@
 ﻿
 html { font-family: Helvetica, Arial }
 
-p{
+p {
   font-size:1.0em;
   line-height:1.6; 
   font-family:Georgia  
@@ -38,4 +38,16 @@ pre,code {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
+}
+
+body {
+  background-image:url('img/quijote.jpg');
+  background-repeat:no-repeat;
+  background-position:right bottom;
+  background-attachment:fixed;
+}
+
+.ui-widget-content {
+  background-color: transparent;
+  background-image: none;
 }
