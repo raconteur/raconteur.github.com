@@ -41,10 +41,10 @@ pre,code {
 }
 
 body {
-  background-image:url('img/quijote.jpg');
-  background-repeat:no-repeat;
-  background-position:right bottom;
-  background-attachment:fixed;
+	background-image: url('img/dante.png');
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
 }
 
 .ui-widget-content {
